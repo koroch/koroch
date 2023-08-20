@@ -25,7 +25,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=koroch&show_icons=true&theme=dark" alt="Koroch" height=180 />
     <br />
-    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=koroch.visitor-badge)
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Koroch.koroch" alt="visitors">
 </div>
 
 <br/>
