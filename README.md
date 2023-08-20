@@ -3,7 +3,6 @@
 
 <br/>
 
-(👉ﾟヮﾟ)👉  👨‍💻 I'm working on [Combate à Fraude](https://github.com/combateafraude)<br/>
 (👉ﾟヮﾟ)👉 🎓 Studying Computer Engineering at [UNISC](https://www.unisc.br)
 
 <br/>
@@ -33,5 +32,7 @@
 
 ### 📞 Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jonatan%20Koroch%20de%20Aguiar-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkdeaguiar/)](https://www.linkedin.com/in/jkdeaguiar/) 
-[![Outlook Badge](https://img.shields.io/badge/jonatanaguiar1998@hotmail.com-3000cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jonatanaguiar1998@hotmail.com)](mailto:jonatanaguiar1998@hotmail.com)
+<div align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-Jonatan%20Koroch%20de%20Aguiar-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkdeaguiar/)](https://www.linkedin.com/in/jkdeaguiar/) 
+  [![Outlook Badge](https://img.shields.io/badge/jonatanaguiar1998@hotmail.com-3000cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jonatanaguiar1998@hotmail.com)](mailto:jonatanaguiar1998@hotmail.com)
+</div>
