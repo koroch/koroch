@@ -32,7 +32,6 @@
 
 ### 📞 Contact
 
-<div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/-Jonatan%20Koroch%20de%20Aguiar-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkdeaguiar/)](https://www.linkedin.com/in/jkdeaguiar/) 
-  [![Outlook Badge](https://img.shields.io/badge/jonatanaguiar1998@hotmail.com-3000cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jonatanaguiar1998@hotmail.com)](mailto:jonatanaguiar1998@hotmail.com)
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-Jonatan%20Koroch%20de%20Aguiar-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkdeaguiar/)](https://www.linkedin.com/in/jkdeaguiar/) 
+[![Outlook Badge](https://img.shields.io/badge/jonatanaguiar1998@hotmail.com-3000cc?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jonatanaguiar1998@hotmail.com)](mailto:jonatanaguiar1998@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/koroch@mx2.unisc.br-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:koroch@mx2.unisc.br)](mailto:koroch@mx2.unisc.br)
