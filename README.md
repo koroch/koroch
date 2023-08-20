@@ -25,11 +25,12 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=koroch&show_icons=true&theme=dark" alt="Koroch" height=180 />
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=koroch.koroch" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=koroch" alt="visitors">
 </div>
 
 <br/>
 <br/>
+
 ### 📞 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jonatan%20Koroch%20de%20Aguiar-3000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jkdeaguiar/)](https://www.linkedin.com/in/jkdeaguiar/) 
