@@ -21,11 +21,11 @@
 ### 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=koroch&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=koroch&row=1&column=6&margin-h=8&theme=holi&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=koroch&show_icons=true&theme=dark" alt="Koroch" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=koroch&show_icons=true&theme=holi" alt="Koroch" height=180 />
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Koroch.koroch&logo=Github" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Koroch.koroch&logo=Github" alt=" Visitors ">
 </div>
 
 <br/>
